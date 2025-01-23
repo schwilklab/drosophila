@@ -1,0 +1,25 @@
+graph,source_pop,treatment,vial 
+1c,Parthenogenic females,Females Only,PF1
+1c,Parthenogenic females,Females Only,PF2
+1c,Parthenogenic females,Females Only,PF3
+1c,Parthenogenic females,Females Only,PF4
+1c,Parthenogenic females,X Spermless males,PS1
+1c,Parthenogenic females,X Spermless males,PS2
+1c,Parthenogenic females,X Spermless males,PS3
+1c,Parthenogenic females,X Spermless males,PS4
+1c,Parthenogenic females,X Oregon R males,PO1
+1c,Parthenogenic females,X Oregon R males,PO2
+1c,Parthenogenic females,X Oregon R males,PO3
+1c,Parthenogenic females,X Oregon R males,PO4
+1d,Oregon R females,Females Only,OF1
+1d,Oregon R females,Females Only,OF2
+1d,Oregon R females,Females Only,OF3
+1d,Oregon R females,Females Only,OF4
+1d,Oregon R females,X Spermless males,OS1
+1d,Oregon R females,X Spermless males,OS2
+1d,Oregon R females,X Spermless males,OS3
+1d,Oregon R females,X Spermless males,OS4
+1d,Oregon R females,X Oregon R males,OO1
+1d,Oregon R females,X Oregon R males,OO2
+1d,Oregon R females,X Oregon R males,OO3
+1d,Oregon R females,X Oregon R males,OO4
