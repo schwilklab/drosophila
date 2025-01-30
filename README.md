@@ -4,6 +4,7 @@ Authors: Lewis I. Held, Jr.*, Surya J. Banerjee, Dylan W. Schwilk, Souvik Roy, K
 
 Manuscript resubmitted February 2025.
 
+Current release: [![DOI](https://zenodo.org/badge/924914132.svg)](https://doi.org/10.5281/zenodo.14775842)
 
 ## To run analysis
   - data are in csv files in the /data directory
